@@ -1,2 +1,2 @@
-var data = ['JavaScript', 'Ajax', 'ASP.NET']
-console.log(data[0])
+var data = ['JavaScript', 'Ajax', 'ASP.NET'];
+console.log(data[0]);
